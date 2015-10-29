@@ -1,0 +1,18 @@
+{
+  "name": "api_kwick",
+  "authors": [
+    "efseb <seb.efther@gmail.com>"
+  ],
+  "description": "Messagerie instantané",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
