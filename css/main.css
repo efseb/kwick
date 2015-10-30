@@ -257,11 +257,14 @@ label {
     font-size: 1.2em;
 }
 
-strong {
+span{
+    background-color: #045FB4;
     font-family: "Comic sans MS";
     font-size: 1.7em;
-    color: #045FB4;
+    color: #eeeeee;
     font-style: normal;
+    padding: 5px;
+    border-radius: 90px;
 }
 h2{
     border-left: 2px solid #58ACFA;
